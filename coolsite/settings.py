@@ -126,5 +126,5 @@ STATICFILES_DIRS = []
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-MEDIA_ROOT = 'C:\learning\projects\selfedu\coolsite\media'
+MEDIA_ROOT = 'C:\Spring\learning\projects\selfedu\media'
 MEDIA_URL = '/media/'
